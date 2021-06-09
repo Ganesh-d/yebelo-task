@@ -1,0 +1,18 @@
+this project run on 8080 port 
+after starting the program we simply run our api url into postman for testing.
+1) localhost:8080/FetchNextNumber/{categoryCode} -if we test this api with get request then it retun the category code, fetch value and stored value as well
+{categoryCode} we have to provide category code.
+
+eg-localhost:8080/FetchNextNumber/101 after hitting this we get 
+output- 101
+	10
+	13
+2)localhot:8080/{categoryCode} - if we test this api using postman with post api then it update storedValue(next number) it update 13 as 19 accordig to the given condition
+
+eg-localhost:8080/101 after hitting this api it update nextValue
+output- 101
+	10
+	19
+
+this both the api give same result for all
+according to my knowledge i have develop this two api i have only basic knowledge of restfull web services.
