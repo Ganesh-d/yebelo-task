@@ -16,3 +16,6 @@ output- 101
 
 this both the api give same result for all
 according to my knowledge i have develop this two api i have only basic knowledge of restfull web services.
+
+this project is created using spring boot i have upload all the files and folder of the projects.
+i have also provide database png i have crated simple database according to my knowledge 
